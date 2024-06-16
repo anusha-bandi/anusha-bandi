@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anusha-bandi
-- 👀 I’m interested in fullstackdevelopement
+- 👀 I’m interested in full stack developement
 - 🌱 I’m currently learning fullstackdeveloper course
 - 💞️ I’m looking to collaborate with each other
 
